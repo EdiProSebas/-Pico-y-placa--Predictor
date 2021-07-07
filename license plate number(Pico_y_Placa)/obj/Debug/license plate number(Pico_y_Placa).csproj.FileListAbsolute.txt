@@ -1,0 +1,10 @@
+C:\Users\PC-5\source\repos\license plate number(Pico_y_Placa)\license plate number(Pico_y_Placa)\bin\Debug\license plate number(Pico_y_Placa).exe.config
+C:\Users\PC-5\source\repos\license plate number(Pico_y_Placa)\license plate number(Pico_y_Placa)\bin\Debug\license plate number(Pico_y_Placa).exe
+C:\Users\PC-5\source\repos\license plate number(Pico_y_Placa)\license plate number(Pico_y_Placa)\bin\Debug\license plate number(Pico_y_Placa).pdb
+C:\Users\PC-5\source\repos\license plate number(Pico_y_Placa)\license plate number(Pico_y_Placa)\obj\Debug\license_plate_number_Pico_y_Placa_.Form1.resources
+C:\Users\PC-5\source\repos\license plate number(Pico_y_Placa)\license plate number(Pico_y_Placa)\obj\Debug\license_plate_number_Pico_y_Placa_.Properties.Resources.resources
+C:\Users\PC-5\source\repos\license plate number(Pico_y_Placa)\license plate number(Pico_y_Placa)\obj\Debug\license plate number(Pico_y_Placa).csproj.GenerateResource.cache
+C:\Users\PC-5\source\repos\license plate number(Pico_y_Placa)\license plate number(Pico_y_Placa)\obj\Debug\license plate number(Pico_y_Placa).csproj.CoreCompileInputs.cache
+C:\Users\PC-5\source\repos\license plate number(Pico_y_Placa)\license plate number(Pico_y_Placa)\obj\Debug\license plate number(Pico_y_Placa).exe
+C:\Users\PC-5\source\repos\license plate number(Pico_y_Placa)\license plate number(Pico_y_Placa)\obj\Debug\license plate number(Pico_y_Placa).pdb
+C:\Users\PC-5\source\repos\license plate number(Pico_y_Placa)\license plate number(Pico_y_Placa)\obj\Debug\license plate number(Pico_y_Placa).csproj.AssemblyReference.cache
